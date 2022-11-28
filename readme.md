@@ -1,1 +1,1 @@
-Voting DApp using using Blockchain Technology
+Decentralised Application For Voting Using Blockchain Technology
